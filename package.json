@@ -1,0 +1,14 @@
+{
+  "name": "bot-feito-pelo-jao-para-vcs",
+  "version": "1.0.0",
+  "description": "feito pelo jao <3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:monbrey/discord.js#inline-replies"
+  }
+}

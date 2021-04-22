@@ -1,0 +1,18 @@
+USE O TERMINAL PARA BAIXAR ESSAS PACKAGES:
+
+npm i discord.js
+
+npm init
+
+npm i monbrey/discord.js#inline-replies
+
+vc pode usar o terminal quem vem com o node apertando CTRL + SHIFT + C ou indo em EXIBIR/VER e em TERMINAL (no vs code)
+para abrir um nova linha aperte CTRL + C
+
+(baixe um de cada vez por linha)
+
+para iniciar o bot é só escrever no terminal: node .
+
+com isso o bot só vai ficar online com o terminal aberto
+
+para deixar ele online 24 horas/7 dias por semana, é só hospeda-lo, aprenda a fazer isso pesquisando no youtube
